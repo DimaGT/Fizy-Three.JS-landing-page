@@ -6,7 +6,7 @@ Welcome to the **Fizzi 3D Website** project! This is a creative personal portfol
 
 ## Preview
 
-![Fizzi 3D Website Preview](./public/image.png)
+![Fizzi 3D Website Preview](./image.png)
 
 *Preview of the Fizzi 3D Website main page, featuring interactive 3D elements and a vibrant soda-themed design.*
 
